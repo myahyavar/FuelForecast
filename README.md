@@ -1,10 +1,7 @@
 # FuelForecast
-fuel consumption prediction for trucks
 
-1. Introduction
 The goal of this work was to accurately predict fuel_consumption_sum for a large-scale
-commercial vehicle telematics dataset provided in the course Kaggle competition. My
-approach evolved through several stages:
+commercial vehicle telematics. Approach evolved through several stages:
 1. Data exploration & preprocessing
 2. Feature engineering (custom domain-inspired features)
 3. Baseline CatBoost model
