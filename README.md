@@ -9,3 +9,7 @@ commercial vehicle telematics. Approach evolved through several stages:
 5. Building a three-model ensemble (CatBoost + LightGBM + XGBoost)
 6. Weights based on inverse-MAE and ridge regression
 7. Model comparison on validation 
+
+The project demonstrated that hybrid ensembles outperform single models for fuel
+consumption prediction. Feature engineering, early stopping, and diversified boosting
+architectures contributed significantly to predictive accuracy.
